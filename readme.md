@@ -67,7 +67,7 @@ From fundamentals to full-scale production backend with AI & DevOps:
 ---
 
 ## 🧭 How to Use This Repo  
-1. Clone the project starter template once announced.  
+1. Clone the project starter template.  
 2. Follow the weekly modules as per syllabus.  
 3. Push your weekly assignments and major projects into separate branches.  
 4. Document your progress via README updates, Jira/Trello boards or any workflow you prefer.  
@@ -95,7 +95,9 @@ From fundamentals to full-scale production backend with AI & DevOps:
 - This is a personal learning repo. Content is derived from course material and my own experiments.  
 - I’ll update notes and code progressively. Pull requests and issues are for my own tracking.
 
+
 ## 🎉 Let’s Get Started!  
-Prepare your Java environment and get ready to build scalable, production-grade backend systems with Spring Boot, AI & DevOps.  
+- Prepare your Java environment and get ready to build scalable, production-grade backend systems with Spring Boot, AI & DevOps.
+- Clone this repo : https://github.com/Aditya-raghuvanshi19/SpringBoot-0-to-100-Cohort4.0-AI-DevOps.git  
 
 Happy coding! ✨  
