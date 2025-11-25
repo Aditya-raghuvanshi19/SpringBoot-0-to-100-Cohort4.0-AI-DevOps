@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7b9e1020-93ab-4211-85f0-1d7ed8389ac6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/.idea/Lambda and stream API.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/Lambda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Lambda and stream API/StreamAPI.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Lambda and stream API.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Lambda and stream API.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda.java" beforeDir="false" afterPath="$PROJECT_DIR$/Lambda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/StreamAPI.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Aditya-raghuvanshi19"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Aditya-raghuvanshi19/SpringBoot-Cohort-3.0.git",
+    "accountId": "f44a8384-9f86-4a36-915f-1ed05d5e5049"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="35bykSE9z796EOoJdZfnBMKPNIU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.StreamAPI.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/ASUS/Desktop/Spring Boot cohort 3.0/Week 2/Lambda and stream API"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="StreamAPI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StreamAPI" />
+      <module name="Lambda and stream API" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StreamAPI" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7b9e1020-93ab-4211-85f0-1d7ed8389ac6" name="Changes" comment="" />
+      <created>1763393208561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763393208561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
