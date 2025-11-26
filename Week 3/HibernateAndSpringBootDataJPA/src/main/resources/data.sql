@@ -1,0 +1,14 @@
+--INSERT INTO product_table (sku, product_title, price, quantity)
+--VALUES ('SKU-1001', 'Laptop Bag', 1499.99, 50);
+--
+--INSERT INTO product_table (sku, product_title, price, quantity)
+--VALUES ('SKU-1002', 'Wireless Mouse', 599.00, 120);
+--
+--INSERT INTO product_table (sku, product_title, price, quantity)
+--VALUES ('SKU-1003', 'Mechanical Keyboard', 3499.50, 30);
+--
+--INSERT INTO product_table (sku, product_title, price, quantity)
+--VALUES ('SKU-1004', 'USB-C Charger', 799.00, 75);
+--
+--INSERT INTO product_table (sku, product_title, price, quantity)
+--VALUES ('SKU-1005', 'Noise Cancelling Headphones', 6999.99, 20);
