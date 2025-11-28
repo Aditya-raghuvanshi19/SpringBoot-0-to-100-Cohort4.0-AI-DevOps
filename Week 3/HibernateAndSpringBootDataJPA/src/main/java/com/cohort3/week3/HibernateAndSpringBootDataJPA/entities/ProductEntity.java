@@ -17,6 +17,9 @@ import java.time.LocalDateTime;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
+//catalog is similar to DataBase as if we have multiple catalog means multiple db
+// we use schema as a subpart of database
+//* so flow is like : catalog.schema.table
 @Table(name = "product_table" ,
 uniqueConstraints = {
         @UniqueConstraint(name = "sku_uniques" , columnNames = {"sku"}),

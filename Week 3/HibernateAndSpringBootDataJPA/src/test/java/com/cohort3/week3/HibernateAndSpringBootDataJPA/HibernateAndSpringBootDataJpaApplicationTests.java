@@ -9,6 +9,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.math.BigDecimal;
 import java.time.LocalDateTime;
 import java.util.List;
+import java.util.Optional;
 
 @SpringBootTest
 class HibernateAndSpringBootDataJpaApplicationTests {
@@ -43,12 +44,26 @@ class HibernateAndSpringBootDataJpaApplicationTests {
 
 		//List<ProductEntity> entities = productRepository.findByQuantityAndPrice(75,BigDecimal.valueOf(799));
 		//List<ProductEntity> entities = productRepository.findByQuantityGreaterThanAndPriceLessThan(75,BigDecimal.valueOf(799));
-		List<ProductEntity> entities = productRepository.findByQuantityGreaterThanOrPriceLessThan(75,BigDecimal.valueOf(799));
+		//List<ProductEntity> entities = productRepository.findByQuantityGreaterThanOrPriceLessThan(75,BigDecimal.valueOf(799));
+		//List<ProductEntity> entities = productRepository.findByTitleLike("%Choco%");
+		//List<ProductEntity> entities = productRepository.findByTitleContains("Choco");
+		List<ProductEntity> entities = productRepository.findByTitleContainingIgnoreCase("CHOco");
+
 
 		for(ProductEntity pe : entities){
 			System.out.println(pe);
 		}
 
+	}
+
+	@Test
+	void getSingleFromRepository(){
+
+		//Optional<ProductEntity> productEntity = productRepository.findByTitleAndPrice("Laptop Bag",BigDecimal.valueOf(1499.99));
+
+		Optional<ProductEntity> productEntity = productRepository.findByTitleAndPriceByCustom("Mechanical Keyboard" , BigDecimal.valueOf(3499.5));
+		System.out.println(productEntity);
+		//? productEntity.ifPresent(System.out::println);
 	}
 
 }
