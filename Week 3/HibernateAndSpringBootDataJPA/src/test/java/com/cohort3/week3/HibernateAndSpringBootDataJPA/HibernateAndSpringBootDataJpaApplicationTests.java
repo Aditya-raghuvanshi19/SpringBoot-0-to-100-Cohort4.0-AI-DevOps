@@ -47,7 +47,7 @@ class HibernateAndSpringBootDataJpaApplicationTests {
 		//List<ProductEntity> entities = productRepository.findByQuantityGreaterThanOrPriceLessThan(75,BigDecimal.valueOf(799));
 		//List<ProductEntity> entities = productRepository.findByTitleLike("%Choco%");
 		//List<ProductEntity> entities = productRepository.findByTitleContains("Choco");
-		List<ProductEntity> entities = productRepository.findByTitleContainingIgnoreCase("CHOco");
+		List<ProductEntity> entities = productRepository.findByTitleContainingIgnoreCase("CHOco",null);
 
 
 		for(ProductEntity pe : entities){
