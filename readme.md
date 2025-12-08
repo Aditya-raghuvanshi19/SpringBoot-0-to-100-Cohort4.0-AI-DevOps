@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Spring Boot 0 to 100 – Cohort 4.0 [AI + DevOps]</h1>
+<h1 align="center">🚀 Spring Boot 0 to 100 – Cohort 4.0 [AI + DevOps] <br> - Coding Shuttle</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring_Boot-3.3+-brightgreen?logo=springboot&logoColor=white" alt="Spring Boot"/>
